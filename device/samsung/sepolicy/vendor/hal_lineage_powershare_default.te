@@ -1,2 +1,0 @@
-allow hal_lineage_powershare_default sysfs_battery:dir search;
-allow hal_lineage_powershare_default sysfs_battery:file rw_file_perms;
