@@ -1,0 +1,12 @@
+# Charger
+ro.charger.enable_suspend=true
+
+# HWUI
+debug.hwui.skia_atrace_enabled=false
+
+# Netflix
+ro.netflix.bsp_rev=Q8250-19134-1
+
+# RIL
+ro.telephony.iwlan_operation_mode=legacy
+ro.vendor.qti.va_aosp.support=1
