@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Evolution-X/.github/main/Banner.png)
+![alt text](https://raw.githubusercontent.com/Evolution-X/.github/main/profile/Banner.png)
 
 
 **Credits**
