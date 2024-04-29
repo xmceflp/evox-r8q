@@ -4,5 +4,5 @@
 **Credits**
 
 - [Evolution X](https://evolution-x.org/)
-- [r8q-dev](https://github.com/r8q-dev/)
-- [Pixel Experience](https://github.com/PixelExperience)
+- [Ata-kaner](https://github.com/ata-kaner/)
+- [Meow by Mao](https://github.com/maosith/msm-4.19-meow)
